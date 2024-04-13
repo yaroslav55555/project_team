@@ -5,7 +5,7 @@
   padding: 0;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter Tight", sans-serif;
   background-color: #ffffff;
   color: #434455;
 }
@@ -47,6 +47,7 @@ ul {
 }
 
 .advertisement-section-text {
+  font-family: "Inter Tight";
   color: #141414;
   letter-spacing: -0.015em;
   text-align: left;
@@ -93,7 +94,7 @@ ul {
 
   .advertisement-section-text {
     max-width: 704px;
-    font-family: "Inter Tight";
+    font-family: "Inter Tight", sans-serif;
     font-size: 59px;
     line-height: 70px;
     text-shadow: 0px 4px 4px #00000040;
