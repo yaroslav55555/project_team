@@ -98,11 +98,10 @@ ul {
   }
 
   .advertisement-section-text {
-    max-width: 600px;
+    max-width: 730px;
     font-size: 64px;
     line-height: 70px;
-    text-shadow: 0px 4px 4px #00000040;
-    margin: 43px 16px;
+    margin: 24px 16px;
   }
 }
 
